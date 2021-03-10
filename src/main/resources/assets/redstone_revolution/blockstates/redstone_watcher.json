@@ -1,0 +1,10 @@
+{
+  "variants": {
+	"powered=false": {
+      "model": "redstone_revolution:block/redstone_watcher"
+    },
+	"powered=true": {
+      "model": "redstone_revolution:block/redstone_watcher_on"
+    }
+  }
+}

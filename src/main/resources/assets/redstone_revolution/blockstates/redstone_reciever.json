@@ -1,0 +1,10 @@
+{
+  "variants": {
+	"powered=false": {
+      "model": "redstone_revolution:block/redstone_reciever"
+    },
+	"powered=true": {
+      "model": "redstone_revolution:block/redstone_reciever_on"
+    }
+  }
+}

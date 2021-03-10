@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "facing=down,powered=false": {
+      "model": "redstone_revolution:block/iron_ventilator",
+      "x": 90
+    },
+    "facing=down,powered=true": {
+      "model": "redstone_revolution:block/iron_ventilator_on",
+      "x": 90
+    },
+    "facing=east,powered=false": {
+      "model": "redstone_revolution:block/iron_ventilator",
+      "y": 90
+    },
+    "facing=east,powered=true": {
+      "model": "redstone_revolution:block/iron_ventilator_on",
+      "y": 90
+    },
+    "facing=north,powered=false": {
+      "model": "redstone_revolution:block/iron_ventilator"
+    },
+    "facing=north,powered=true": {
+      "model": "redstone_revolution:block/iron_ventilator_on"
+    },
+    "facing=south,powered=false": {
+      "model": "redstone_revolution:block/iron_ventilator",
+      "y": 180
+    },
+    "facing=south,powered=true": {
+      "model": "redstone_revolution:block/iron_ventilator_on",
+      "y": 180
+    },
+    "facing=up,powered=false": {
+      "model": "redstone_revolution:block/iron_ventilator",
+      "x": 270
+    },
+    "facing=up,powered=true": {
+      "model": "redstone_revolution:block/iron_ventilator_on",
+      "x": 270
+    },
+    "facing=west,powered=false": {
+      "model": "redstone_revolution:block/iron_ventilator",
+      "y": 270
+    },
+    "facing=west,powered=true": {
+      "model": "redstone_revolution:block/iron_ventilator_on",
+      "y": 270
+    }
+  }
+}

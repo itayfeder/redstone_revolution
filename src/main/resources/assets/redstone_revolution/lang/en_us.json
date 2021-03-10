@@ -1,0 +1,29 @@
+{
+  "block.redstone_revolution.bluestone_wire": "Bluestone Wire",
+  "block.redstone_revolution.quartz_pressure_plate": "Quartz Pressure Plate",
+  "block.redstone_revolution.redstone_watcher": "Redstone Watcher",
+  "block.redstone_revolution.wooden_ventilator": "Wooden Ventilator",
+  "block.redstone_revolution.iron_ventilator": "Iron Ventilator",
+  "block.redstone_revolution.redstone_reciever": "Redstone Reciever",
+  "block.redstone_revolution.wireless_lever": "Wireless Lever",
+  "block.redstone_revolution.golden_door": "Golden Door",
+  "block.redstone_revolution.rotator": "Rotator",
+  "block.redstone_revolution.randomizer": "Redstone Randomizer",
+
+  "item.redstone_revolution.wrench": "Wrench",
+  "item.redstone_revolution.bluestone": "Bluestone Dust",
+  "item.redstone_revolution.quartz_pressure_plate": "Quartz Pressure Plate",
+  "item.redstone_revolution.redstone_watcher": "Redstone Watcher",
+  "item.redstone_revolution.wooden_ventilator": "Wooden Ventilator",
+  "item.redstone_revolution.iron_ventilator": "Iron Ventilator",
+  "item.redstone_revolution.redstone_reciever": "Redstone Reciever",
+  "item.redstone_revolution.wireless_lever": "Wireless Lever",
+  "item.redstone_revolution.golden_door": "Golden Door",
+  "item.redstone_revolution.rotator": "Rotator",
+  "item.redstone_revolution.randomizer": "Redstone Randomizer",
+
+  "item.redstone_revolution.bombert_spawner": "Bombert",
+  "entity.redstone_revolution.bombert": "Bombert",
+
+  "entity.minecraft.villager.redstone_revolution.mechanic": "Mechanic"
+}

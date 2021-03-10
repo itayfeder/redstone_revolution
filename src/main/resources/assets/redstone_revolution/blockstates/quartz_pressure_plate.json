@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "redstone_revolution:block/quartz_pressure_plate"
+    },
+    "powered=true": {
+      "model": "redstone_revolution:block/quartz_pressure_plate_down"
+    }
+  }
+}
